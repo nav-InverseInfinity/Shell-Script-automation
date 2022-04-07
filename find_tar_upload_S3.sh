@@ -162,7 +162,7 @@ case $option in
 
                       cd $tar_dest && echo "Copied to $PWD" && ls -l $tar_dest | grep $tar_ball.tar.gz
 
-                      echo "Proceeding to S3 upload statge"
+                      echo "Proceeding to S3 upload stage"
 
                       sleep 3
 
