@@ -15,6 +15,13 @@ In order to make it a user interactive script, used Conditional and Case stateme
 
 
 # Screenshots
+## system_monitor result
+
+<img width="780" alt="Screenshot 2022-04-07 at 12 36 47" src="https://user-images.githubusercontent.com/98486154/162190316-5822abdc-8323-42fb-97f2-52749ad86e11.png">
+
+
+
+
 ## Find, tar and upload to S3
 
 
